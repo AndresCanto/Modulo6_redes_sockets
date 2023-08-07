@@ -1,4 +1,4 @@
-package sesion1.socketsString;
+package sesion2.multithreading;
 
 import java.io.Serializable;
 
